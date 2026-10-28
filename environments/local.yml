@@ -1,0 +1,5 @@
+name: local
+variables:
+  - name: base_url
+    value: https://api.github.com/users/usebruno
+    description: ""

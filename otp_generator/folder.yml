@@ -1,0 +1,7 @@
+info:
+  name: otp_generator
+  type: folder
+  seq: 1
+
+request:
+  auth: inherit

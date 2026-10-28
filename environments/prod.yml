@@ -1,0 +1,7 @@
+name: prod
+variables:
+  - name: id
+    value:
+      type: number
+      data: "100"
+    description: ""
